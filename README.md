@@ -1,5 +1,5 @@
 
-💮 ANNYEONG TOLAHOAYNE~~ 💮
+💮 **ANNYEONG TOLAHOAYNE~** 💮
 
 **💫 About Me**
 🎮 I bring ideas to life with Godot and am actively exploring new possibilities in Unity.  
