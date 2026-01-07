@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<div >
+<div align="center">
 
   <h1>💮 <b>ANNYEONG TOLAHOAYNE~~</b> 💮</h1>
 
@@ -19,7 +19,7 @@
 <br/><br/>
 
 <!-- ================= SOCIALS ================= -->
-<div align="center">
+<div>
 
   <h2>🌐 Socials</h2>
 
@@ -44,7 +44,7 @@
 <hr/>
 
 <!-- ================= TECH STACK ================= -->
-<div align="center">
+<div>
 
   <h1>💻 Tech Stack</h1>
 
@@ -60,4 +60,77 @@
 
   <!-- Frontend / Backend -->
   <p>
-    <img src="htt
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
+  </p>
+
+  <!-- Database -->
+  <p>
+    <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </p>
+
+  <!-- Game / Platform -->
+  <p>
+    <img src="https://img.shields.io/badge/godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/>
+    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?style=for-the-badge&logo=itch.io&logoColor=white"/>
+  </p>
+
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<!-- ================= GITHUB STATS ================= -->
+<h2>⚡ GitHub Stats</h2>
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KasinMidari&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=KasinMidari&theme=tokyonight&hide_border=true"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasinMidari&layout=compact&theme=tokyonight&hide_border=true"
+  />
+
+</div>
+
+<br/><br/>
+
+<!-- ================= QUOTE ================= -->
+<div align="center">
+
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="quote"
+  />
+
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<!-- ================= VISITOR ================= -->
+<div align="center">
+
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=KasinMidari&icon=0&color=0"/>
+  </a>
+
+</div>
