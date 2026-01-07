@@ -30,7 +30,7 @@
 <details>
 <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="KasinMidari's Github stats" src="https://kasinmidair-wcrs.vercel.app/api?username=KasinMidari&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="KasinMidari's Github stats" src="https://kasin-midari.vercel.app/api?username=KasinMidari&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </details>
 
