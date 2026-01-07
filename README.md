@@ -1,12 +1,17 @@
-<h1>💮 <b>ANNYEONG TOLAHOAYNE~~</b> 💮</h1>
+<p style="font-size:32px; font-weight:700; margin: 0;">
+💮 ANNYEONG TOLAHOAYNE~~ 💮
+</p>
 
-<h2>💫 About Me</h2>
+<p style="font-size:24px; font-weight:600; margin-top:16px;">
+💫 About Me
+</p>
+
 🎮 I bring ideas to life with Godot and am actively exploring new possibilities in Unity.  
 🎨 I am obsessed with aesthetics, crafting pixel-perfect and user-centric interfaces.  
 💻 I seamlessly bridge platforms using advanced JavaScript libraries and components.  
 🧠 I am fluent in core technologies including C++, C#, Java, Kotlin, and JavaScript.
 
-<h2>🌐 Socials</h2>
+<p style="font-size:24px; font-weight:600; margin-top:16px;">🌐 Socials</p>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KasaDss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tranthuhoaiera19)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kasahoaitran1609@gmail.com)
