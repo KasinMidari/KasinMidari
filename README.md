@@ -1,16 +1,16 @@
 
-# 💮ANNYEONG TOLAHOAYNE~~💮
+💮 ANNYEONG TOLAHOAYNE~~ 💮
 
-# 💫 About Me:
-🎮 I bring ideas to life with Godot and am actively exploring new possibilities in Unity.<br>🎨 I am obsessed with aesthetics, crafting pixel-perfect and user-centric interfaces.<br>💻 I seamlessly bridge platforms using advanced JavaScript libraries and components.<br>🧠 I am fluent in core technologies including C++, C#, Java, Kotlin, and JavaScript.
+**💫 About Me**
+🎮 I bring ideas to life with Godot and am actively exploring new possibilities in Unity.  
+🎨 I am obsessed with aesthetics, crafting pixel-perfect and user-centric interfaces.  
+💻 I seamlessly bridge platforms using advanced JavaScript libraries and components.  
+🧠 I am fluent in core technologies including C++, C#, Java, Kotlin, and JavaScript.
 
-
-
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KasaDss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tranthuhoaiera19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kasahoaitran1609@gmail.com) 
-
+**🌐 Socials**
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KasaDss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tranthuhoaiera19)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kasahoaitran1609@gmail.com)
 
 
 
@@ -20,21 +20,19 @@
 
 
 
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=KasinMidari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KasinMidari&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KasinMidari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <details>
 <summary>:zap: Github Stats</summary>
 
 <img align="left" alt="KasinMidari's Github stats" src="https://kasin-midari.vercel.app/api?username=KasinMidari&show_icons=true&hide_border=true&theme=tokyonight" />
 
+![](https://github-readme-stats.vercel.app/api?username=KasinMidari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KasinMidari&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KasinMidari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 </details>
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 [![](https://visitcount.itsvg.in/api?id=KasinMidari&icon=0&color=0)](https://visitcount.itsvg.in)
