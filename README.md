@@ -4,10 +4,10 @@
 
 <h2>💫 About Me</h2>
 <br/>
-🎮 I bring ideas to life with Godot and am actively exploring new possibilities in Unity.  
-🎨 I am obsessed with aesthetics, crafting pixel-perfect and user-centric interfaces.  
-💻 I seamlessly bridge platforms using advanced JavaScript libraries and components.  
-🧠 I am fluent in core technologies including C++, C#, Java, Kotlin, and JavaScript.
+🎮 I bring ideas to life with Godot and am actively exploring new possibilities in Unity.  <br/>
+🎨 I am obsessed with aesthetics, crafting pixel-perfect and user-centric interfaces.  <br/>
+💻 I seamlessly bridge platforms using advanced JavaScript libraries and components.  <br/>
+🧠 I am fluent in core technologies including C++, C#, Java, Kotlin, and JavaScript.<br/>
 <br/>
 <br/>
 <br/>
