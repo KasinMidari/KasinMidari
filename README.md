@@ -29,7 +29,7 @@
 
 <h1 >💻 Tech Stack</h1>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -58,7 +58,7 @@
 <details>
 <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="KasinMidari's Github stats" src="https://kasin-midari.vercel.app/api?username=KasinMidari&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="center" alt="KasinMidari's Github stats" src="https://kasin-midari.vercel.app/api?username=KasinMidari&show_icons=true&hide_border=true&theme=tokyonight" />
 
 ![](https://github-readme-stats.vercel.app/api?username=KasinMidari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KasinMidari&theme=tokyonight&hide_border=false)<br/>
