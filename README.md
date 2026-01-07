@@ -15,8 +15,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=KasinMidari&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KasinMidari&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KasinMidari&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
